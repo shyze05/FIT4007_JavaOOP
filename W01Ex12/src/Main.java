@@ -5,9 +5,7 @@ public class Main {
     public static void main(String[] args) {
         int sum = 0;
         for (int i = 7; i < 101; i+= 7){
-                if (i % 7 == 0){
-                    sum += i;
-                }
+                sum += i;
         }
         System.out.println(sum);
     }
