@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FIT4007_JavaOOP.iml" filepath="$PROJECT_DIR$/.idea/FIT4007_JavaOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W01Ex12/W01Ex12.iml" filepath="$PROJECT_DIR$/W01Ex12/W01Ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W01Ex13/W01Ex13.iml" filepath="$PROJECT_DIR$/W01Ex13/W01Ex13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W01Ex14/W01Ex14.iml" filepath="$PROJECT_DIR$/W01Ex14/W01Ex14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W01Ex16/W01Ex16.iml" filepath="$PROJECT_DIR$/W01Ex16/W01Ex16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WO1Ex15/WO1Ex15.iml" filepath="$PROJECT_DIR$/WO1Ex15/WO1Ex15.iml" />
+    </modules>
+  </component>
+</project>
